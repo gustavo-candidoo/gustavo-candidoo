@@ -1,4 +1,4 @@
- :smile: Oi, meu nome é Luiz Gustavo, tenho 20 anos!
+ :smile: Olá, meu nome é Luiz Gustavo, tenho 20 anos!
 
 🖥️ Atualmente estou cursando o terceiro semestre de Sistemas de Informação na ESPM (Escola Superior de Propaganda e Marketing) em São Paulo. 
 
