@@ -1,4 +1,6 @@
- :smile: Olá, meu nome é Luiz Gustavo, tenho 20 anos!
+<img align='left' heigth='160px' src='jasonMKX.jpeg' alt='Foto de perfil'>
+
+<h3>:smile: Olá, meu nome é Luiz Gustavo!</h3>
 
 🖥️ Atualmente estou cursando o terceiro semestre de Sistemas de Informação na ESPM (Escola Superior de Propaganda e Marketing) em São Paulo. 
 
@@ -11,6 +13,7 @@
     <li>Java</li>
     <li>GitHub</li>
 </ul>
+
 
 
 📚 Essas são as principais matérias que tenho na minha grade horária:
