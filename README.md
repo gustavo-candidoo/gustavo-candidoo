@@ -1,4 +1,4 @@
-<img align='left' heigth='160px' src='jasonMKX.jpeg' alt='Foto de perfil'>
+<img align='left' height='160px' src='jasonMKX.jpeg' alt='Foto de perfil'>
 
 <h3>:smile: Olá, meu nome é Luiz Gustavo!</h3>
 
