@@ -1,5 +1,3 @@
-<img align='left' height='160px' src='jasonMKX.jpeg' alt='Foto de perfil'>
-
 <h3>:smile: Olá, meu nome é Luiz Gustavo!</h3>
 
 🖥️ Atualmente estou cursando o terceiro semestre de Sistemas de Informação na ESPM (Escola Superior de Propaganda e Marketing) em São Paulo. 
