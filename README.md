@@ -35,5 +35,3 @@
 </ul>
 
 🎯 Procuro sempre estar me atualizando através de cursos, pessoas e artigos. Além disso, gosto de praticar a teoria através de projetos.
-
-  ![Snake animation](https://github.com/gustavo-candidoo/gustavo-candidoo/blob/output/github-contribution-grid-snake.svg)
